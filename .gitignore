@@ -1,0 +1,9 @@
+*.csv
+*.json
+*.xlsx
+*.zip
+Lab1/*
+Lab2/*
+.ipynb_checkpoints/
+data/
+resnet_data
